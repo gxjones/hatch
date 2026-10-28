@@ -1,0 +1,10 @@
+/hatch.exe
+/hatch.exe~
+/sandbox.exe
+/sandbox.exe~
+/.gotmp/
+/dist/
+*.vhdx
+*.iso
+*.wsb
+*.log
